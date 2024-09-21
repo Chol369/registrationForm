@@ -5,7 +5,7 @@ This project is a simple registration form built using HTML. It includes fields 
 ## Preview
 
 You can preview the registration form by visiting the following link:
-[Free Code Camp Registration Form]([https://register-demo.freecodecamp.org](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-forms-by-building-a-registration-form/step-1))
+[Free Code Camp Registration Form]((https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-forms-by-building-a-registration-form/step-1))
 
 ## Features
 
